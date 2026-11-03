@@ -1,0 +1,1 @@
+The **A** and **B** directories correspond to the two CPU architectures evaluated in this project. Each contains MATLAB scripts for generating performance visualizations from gem5 simulation statistics. The resulting plots illustrate cache behavior, execution time, and memory access performance across different L1 data cache configurations and are included in the project report.
